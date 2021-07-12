@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fmint/Osnova/push_swap/PS/max_value_true.c
+push_swap.h
+/Users/fmint/Osnova/push_swap/PS/push_swap.h
+
+/Users/fmint/Osnova/push_swap/PS/push_swap.h
+stddef.h
+-
+stdlib.h
+-
+unistd.h
+-
+stdio.h
+-
+
